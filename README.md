@@ -7,4 +7,5 @@ Noktaların hedefe ulaşması için bir simülasyon yapılır. Simülasyonun son
 ## Sonuç
 Gerçekleştirdiğimiz canlı yayında (izlemek için tıklayınız) 28. jenerasyonda bulunan bir nokta hedefe (sarı nokta) ulaştı. Daha sonra diğer noktaların hedefe ulaşan noktayı örnek almaya başlamasıyla birlikte her jenerasyon da hedefe ulaşan nokta sayısı katlanarak arttı. Bu sistem ile birlikte, sadece insanların değil algoritmaların da başarılı olanı örnek alıp kendini geliştirdiğini gözlemlemiş olduk. 
 
-
+## Gereken Program
+Çalıştırmak için Processing gerekiyor indirmek için tıklayınız. https://www.processing.org/download/
